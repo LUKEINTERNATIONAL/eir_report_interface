@@ -4,7 +4,7 @@ require_relative "lib/eir_report_interface/version"
 
 Gem::Specification.new do |spec|
   spec.name = "eir_report_interface"
-  spec.version = EirReportInterface::VERSION
+  spec.version = EIRReportInterface::VERSION
   spec.authors = ["dominickasanga"]
   spec.email = ["dominickasanga@gmail.com"]
 
