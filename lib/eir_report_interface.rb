@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-require_relative "eir_report_interface/version"
+require_relative 'eir_report_interface/engine'
 
-module EirReportInterface
-  class Error < StandardError; end
-  # Your code goes here...
+module EIRReportInterface
+  # Example usage of single-quoted string
+  MESSAGE = 'Your code goes here...'
 end
